@@ -107,10 +107,11 @@ emoji2 = (
 ) 
 
 fed = (
-"XAOS ❤ Di ",  
-"Yaşasın XAOS ❤",  
-"Salam Olsun XAOS Ailəsinə 👋", 
-"XAOS Ailəsindən Hamıya Salam ❤",  
+"Neon ❤-di ",  
+"Yaşasın Neon Federasiyasi ❤",  
+"Salam Olsun Neon Ailəsinə 👋", 
+"Mənim Fed? Neon Fed-di💋",
+"Neon Fed Ailəsindən Hamıya Salam ❤",  
 "Buyur Nə Lazımdı? 🤔", 
 )
   
