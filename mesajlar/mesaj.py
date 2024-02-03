@@ -60,7 +60,7 @@ geldim = (
 "Qırmızı Xalçada Sərəkmi?",  
 )
 
-Sultan = (
+sultan = (
 "Haycannn Aşkım ❤",
 "Haycannn, Quzu kəsime sənə 🙊",
 "Bəliii 🫶",
