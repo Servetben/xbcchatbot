@@ -1,2 +1,2 @@
-telethon>=1.24.0
+telethon==2.2.0
 bs4
