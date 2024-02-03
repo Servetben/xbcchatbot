@@ -60,7 +60,7 @@ geldim = (
 "Qırmızı Xalçada Sərəkmi?",  
 )
 
-sesizKOLGE = (
+Sultan = (
 "Haycannn Aşkım ❤",
 "Haycannn, Quzu kəsime sənə 🙊",
 "Bəliii 🫶",
@@ -72,7 +72,7 @@ sesizKOLGE = (
 "🙄",  
 "🥱",  
 "❤", 
-"Na Var Aaa, Nəyə Tağ Edirsənn?? 🙄",  
+"Na Var Aaa, Niyə Tağ Edirsənn?? 🙄",  
 "Aəəəə Dincəəldəəəə 😒",  
 "😒",  
 "Qrupun Gözüüü 😝",  
