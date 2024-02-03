@@ -59,7 +59,13 @@ geldim = (
 "Neynim?",  
 "Qırmızı Xalçada Sərəkmi?",  
 )
-
+neonsahib = (
+"Na Var Aaa, Niyə Tağ Edirsənn?? 🙄",  
+"Aəəəə Dincəəldəəəə 😒",  
+"Qrupun Gözüüü 😝",
+"Belə çox axtarırsan məni DM yaz,bəlkə nə vaxtsa baxdım😂",
+)
+  
 sultan = (
 "Haycannn Aşkım ❤",
 "Haycannn, Quzu kəsime sənə 🙊",
@@ -72,16 +78,11 @@ sultan = (
 "🙄",  
 "🥱",  
 "❤", 
-"Na Var Aaa, Niyə Tağ Edirsənn?? 🙄",  
-"Aəəəə Dincəəldəəəə 😒",  
-"😒",  
-"Qrupun Gözüüü 😝",  
+"😒",    
 "Adəə İmkan Ver Yataqdaa 🥱🥱",  
 "Əlini Farahat Qoyda Alaa 😒",  
 "Dur Cıx Çölə",  
-"what? 🙄", 
-"Davaaay Nömrənii Att Kişi Balaa 👨‍💻", 
-"Sən Öl Səni Yolacam aaaa",
+"what dedin gulum? 🙄", 
 )
 
 ban = (
