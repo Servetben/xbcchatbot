@@ -1,12 +1,3 @@
-# Bu repo aykhan_s tərəfindən 29.11.2022 tarixində yığılıb
-# Bu repodan icazəsiz hər hansı kodu sətri məlumatı kopyalıyıb
-# Öz adına çıxaran peysərdi
-# Bu yazıları silmədən işlədin
-
-# t.me/RoBotlarimTg | YouTube: RoBotlarimTg |
-# t.me/aykhan_s | insta: aykhan026 | 
-# GitHub: aykhan026
-
 salam = (
 "Salam",
 "Salam Kişi",
@@ -15,13 +6,16 @@ salam = (
 "Salamdaa",
 "Uşş balama salamm",
 "Salam Cənab 🫶",
+"Və Alekum Salam🇦🇿",
 "Salam Nəəfəəəss",
 )
 
 necesen = (
 "Həmşəki Kimi! Sən?",
 "Saol",
+"Şükür Allaha yaxşıyıq",
 "Həkimsən ?",
+"Var ol, yaxşıyam! Sən necəsən?",
 "Ə belədana 😂",
 "What",
 "İyyim aşkım sen ?",
@@ -29,12 +23,12 @@ necesen = (
 "Mən başımı buraxe sən necəsən 😂",
 )
 
-
-
 sagol = (
 "Salam Sağol",
 "Hara gedsən",
 "Yatıram demə🥲",
+"Səndə Sağ ol",
+"Var ol❤️",
 "Sağolunnn yenə gözləyəriyy🙈",
 "Uşş balam Sağol",
 "Sağol canım benim 🫶",
@@ -48,6 +42,8 @@ getdim = (
 "Hara?",
 "Cəhənəmə get",
 "Get Heç Gəlmə",
+"Allah amanında qal",
+"Özünə yaxşı bax❤️",
 "Neynim? Getdə 😒",  
 "Yaxşı Yol", 
 "Dalıncada Su Atımı?",
@@ -70,6 +66,8 @@ sultan = (
 "Haycannn Aşkım ❤",
 "Haycannn, Quzu kəsime sənə 🙊",
 "Bəliii 🫶",
+"Zuzu-nun Ürəyi❤️😉",
+
 "Nə gözəl deyirsəne, birdə de",
 "O Mənim Ürəyimdi ❤",
 "Na Var Aaa, Nə İsdiyirsən? 😑",
@@ -88,6 +86,8 @@ sultan = (
 ban = (
 "Vəhşii",
 "Həri Vəhşii",
+"Min dəfə dedim qımışma daaa!",
+"Dedim axı səni qımışdıranı tapacam!",
 "Vəhşi Panteramm kimə ban atdın",
 "Havada ban kokusu var",
 )
@@ -221,8 +221,6 @@ gel = (
 "Strelka at qaqaş 💪",
 )
 
-
-
 gordum = (
 "Elə bildim korsan 😒",
 "Görüb nağarassan xötey? 😡",
@@ -232,9 +230,8 @@ gordum = (
 "Qələt Eədin 😁",
 "Neynim? 🤦",
 )
-  
-  
-taım = (
+    
+tema+ = (
 "https://t.me/addtheme/sf158WSw7LWOtpvV",
 "https://t.me/addtheme/bpcrFtP4qYu0DdnJ",
 "https://t.me/addtheme/aUFKCX7AQ3aQpDjp",
