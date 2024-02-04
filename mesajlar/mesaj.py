@@ -224,7 +224,7 @@ proqramist = (
 "Sahibim yeni başlıyan proqramistdi, azda olsa o kömək edə bilər @neonshib",
 )
 
-mahnıbotu = (
+mahnı botu = (
 "Mən ideal mahnı botu bilirəm deyim ? psst birdə yaz",
 "Buyur musiqi botu bu əladı reklamsız işləyir : @nazmusicbot ",
 "Buyur bu hələ tam ideal olmasada donmur və reklamə olmur : @neonmuzik_bot ",
