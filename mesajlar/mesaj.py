@@ -36,8 +36,6 @@ sagol = (
 "Sağo Ay Xanım",
 )
 
-
-
 getdim = (
 "Hara?",
 "Cəhənəmə get",
@@ -67,7 +65,6 @@ sultan = (
 "Haycannn, Quzu kəsime sənə 🙊",
 "Bəliii 🫶",
 "Zuzu-nun Ürəyi❤️😉",
-
 "Nə gözəl deyirsəne, birdə de",
 "O Mənim Ürəyimdi ❤",
 "Na Var Aaa, Nə İsdiyirsən? 😑",
@@ -127,7 +124,7 @@ niye = (
 "Saçlarını Yolanda Biləsən 🥹",
 )
   
-  
+ 
 ne = (
 "Nənəə 😂",
 "Azzarr Nəə 🙄",
