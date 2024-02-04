@@ -1,9 +1,6 @@
-
-
-
 from komekci.aykhan import Nermin
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, neonsahib, sultan, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum, mahnı botu, bot, proqramist,tgtema
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, neonsahib, sultan, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum, mahnıbotu, bot, proqramist,tgtema
 from mesajlar.bot import yeni_user, start, info, oyun, zer, bol, ftop, btop, carx, ox
 from telethon import events, Button
 import random
@@ -38,8 +35,9 @@ async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(bot)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)/mahni botu+'))
+@Nermin.on(events.NewMessagd(pattern='(?i)/musiqi botu+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(mahni botu)}")
+    await event.reply(f"{random.choice(mahnibotu)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)/proqramist+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
