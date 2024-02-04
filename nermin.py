@@ -32,7 +32,22 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Nermin.on(events.NewMessage(pattern='(?i)/oyunlar+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(oyun)}")
- 
+
+@Nermin.on(events.NewMessage(pattern='(?i)/bot+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(bot)}")
+
+@Nermin.on(events.NewMessage(pattern='(?i)/mahni botu+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(mahni botu)}")
+
+@Nermin.on(events.NewMessage(pattern='(?i)/proqramist+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(proqramist)}")
+
+@Nermin.on(events.NewMessage(pattern='(?i)/zer+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(jjjjjj)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)/zer+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
@@ -90,8 +105,6 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 
 @Nermin.on(events.NewMessage(pattern='(?i)@neonsahib+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Neon+'))
-@Nermin.on(events.NewMessage(pattern='(?i)Sultan+'))
-@Nermin.on(events.NewMessage(pattern='(?i)Abbas+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Sahib+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Cenub15+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
@@ -186,7 +199,7 @@ async def yeni_mesaj(event: events.NewMessage.Event):
          
 @Nermin.on(events.NewMessage(pattern='(?i)tema+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(taım)}")
+    await event.reply(f"{random.choice(tgtema)}")
 
         
         
