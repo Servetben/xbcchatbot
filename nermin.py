@@ -1,14 +1,12 @@
-# Bu repo aykhan_s tərəfindən 29.11.2022 tarixində yığılıb
-# Bu repodan icazəsiz hər hansı kodu sətri məlumatı kopyalıyıb
-# Öz adına çıxaran peysərdi
-# Bu yazıları silmədən işlədin
-
-# t.me/RoBotlarimTg | YouTube: RoBotlarimTg |
-# t.me/aykhan_s | insta: aykhan026 | 
-# GitHub: aykhan026
 
 
-from komekci.aykhan import Nermin
+
+from telethon import TelegramClient
+
+Nermin = TelegramClient('Nermin', API_ID, API_HASH).start(bot_token=bot_token)
+
+
+from Nermin import Nermin
 import base64
 from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, neonsahib, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum, taım
 from mesajlar.bot import yeni_user, start, info, oyun, zer, bol, ftop, btop, carx, ox
