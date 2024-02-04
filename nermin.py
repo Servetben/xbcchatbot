@@ -3,7 +3,7 @@
 
 from komekci.aykhan import Nermin
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, neonsahib, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum, tgtema,
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, neonsahib, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum, tgtema, mahnı botu, proqramist, bot,
 from mesajlar.bot import yeni_user, start, info, oyun, zer, bol, ftop, btop, carx, ox
 from telethon import events, Button
 import random
