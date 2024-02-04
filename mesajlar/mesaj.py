@@ -233,7 +233,7 @@ mahnı botu = (
 bot = (
 "Mənim mənbəm buradı :@neonfedresmi ",
 "Bax hələ bura @neonfedresmi bəlkə orda istədiyin bot var, yoxdusada soruş bəlkə planlanmadadır @neonsahib",
-"Burdan sorus bot haqqinda @neonfedsupport,
+"Burdan sorus bot haqqinda @neonfedsupport",
 )
 gordum = (
 "Elə bildim korsan 😒",
