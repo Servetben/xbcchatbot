@@ -220,7 +220,24 @@ gel = (
 "Hara gəlim balam? 🤡",
 "Strelka at qaqaş 💪",
 )
+proqramist = (
+"Buyur necə kömək edə bilərəm ?",
+"Proqramist deyiləm, ama buyur necə kömək edə bilərəm ?",
+"Mən botam, sahibim bəlkə kömək edə bildi",
+"Sahibim yeni başlıyan proqramistdi, azda olsa o kömək edə bilər @neonshib",
+)
 
+mahnı botu = (
+"Mən ideal mahnı botu bilirəm deyim ? psst birdə yaz",
+"Buyur musiqi botu bu əladı reklamsız işləyir : @nazmusicbot ",
+"Buyur bu hələ tam ideal olmasada donmur və reklamə olmur : @neonmuzik_bot ",
+)
+
+bot = (
+"Mənim mənbəm buradı :@neonfedresmi ",
+"Bax hələ bura @neonfedresmi bəlkə orda istədiyin bot var, yoxdusada soruş bəlkə planlanmadadır @neonsahib",
+"Burdan sorus bot haqqinda @neonfedsupport,
+)
 gordum = (
 "Elə bildim korsan 😒",
 "Görüb nağarassan xötey? 😡",
@@ -231,7 +248,7 @@ gordum = (
 "Neynim? 🤦",
 )
     
-tema+ = (
+tgtema = (
 "https://t.me/addtheme/sf158WSw7LWOtpvV",
 "https://t.me/addtheme/bpcrFtP4qYu0DdnJ",
 "https://t.me/addtheme/aUFKCX7AQ3aQpDjp",
