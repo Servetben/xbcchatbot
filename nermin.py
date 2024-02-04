@@ -43,10 +43,14 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(proqramist)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)/zer+'))
+@Nermin.on(events.NewMessage(pattern='(?i)/sultan+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(jjjjjj)}")
+    await event.reply(f"{random.choice(sultan)}")
 
+@Nermin.on(events.NewMessage(pattern='(?i)/tgtema+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(tgtema)}")
+    
 @Nermin.on(events.NewMessage(pattern='(?i)/zer+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(zer)}")
@@ -124,7 +128,7 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(emoji2)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)xaos+'))
+@Nermin.on(events.NewMessage(pattern='(?i)neon+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(fed)}")
  
