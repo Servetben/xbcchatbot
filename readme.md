@@ -14,12 +14,18 @@
 <p align="center">
   <img src="https://graph.org/file/15bafe51af19ed595d1b4.jpg">
 </p>
+
 ### Qurulum:
 1)Botftherdan Quracaginiz botun tokenin goturursuz
+
 2)telegram.org dan hesabinizin api id ve API Hash goturursiz
+
 3) komekci/aykhan.py token api id api hash yazırsız
+
 4) Herokuda new ederek yeni bot ucun giris yaradirsiz ve ordan GitHub secerek search ederek bu reponu secirsiz ve deploy edirsiz ;)
-5) Herokuda botu secirsiz ve aktif edirsiz 2ci bolmede olur.
+
+5)  Herokuda botu secirsiz ve aktif edirsiz 2ci bolmede olur.
+
 
 Repoda az söz yazmışam siz artırarsınız
 Kodları izləyərək istədiyiniz qədər söz+cavab əlavə edə bilərsiniz
