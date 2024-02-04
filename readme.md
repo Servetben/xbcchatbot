@@ -1,4 +1,4 @@
-## Neon Chat Qrup2 mesajlaşma botudur
+## Neon Chat Qrup mesajlaşma botudur
 ## Link: t.me/neon_chatbot
 ━━━━━━━━━━━━━━━━━━━━
 
