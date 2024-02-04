@@ -13,9 +13,9 @@ from telethon import TelegramClient
 # Config məlumatları
 
 # Telegram Client (Telethon)
-API_ID = "16157584"
-API_HASH = "2167d4e6007a79eed91d084bf5b8966a"
-bot_token = "6797602758:AAHcEyta6x0g4FTt1JZ0MKbqzHdXOGfWV70"
+API_ID = "iidi naxi bura yaz"
+API_HASH = "zir zibili bura yaz))"
+bot_token = "tokeni bura yaz"
 
 # Nermin
 Nermin = TelegramClient('Nermin', API_ID, API_HASH).start(bot_token=bot_token)
