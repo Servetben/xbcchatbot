@@ -1,0 +1,28 @@
+{
+    "name": " 𝐍𝐄𝐎𝐍 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+    "description": "Pyrogram ilə Python dilində yazılmış teleqram qrupları üçün Çat söhbət Botu.",
+    "logo": "https://graph.org/file/5436be4a13f4a4d76d766.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "Neon",
+    "ChatBot",
+    "telegram-bot",
+    "pyrogram"
+    ],
+    "env": {
+      "API_ID": {
+        "description": "Bu dəyəri https://my.telegram.org saytından əldə edin",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Bu dəyəri https://my.telegram.org saytından əldə edin",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "Botfather-dən Bot nişanı",
+        "value": "",
+        "required": true
+      }
